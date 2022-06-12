@@ -3,7 +3,7 @@ Music-Genre-Prediction-Assignment
 A machine learning model to predict music preferences of a person based on their age and gender.
 
 ## *Problem statement*
-We have to predict which genre of music will prefer a person.
+We have to predict which genre of music will be preferred by a person.
 
 ## *Inputs*
 Age
